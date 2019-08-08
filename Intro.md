@@ -32,8 +32,6 @@ At Picnic, our team works hard on a rewarding project: to lead a grocery revolut
 
 By bringing minds with assorted backgrounds together, we unlock the potential of diversity. From data scientists, analysts, in-house consultants, to software developers, everyone combines forces to bring simplicity out of complexity and run company changing projects.
 
-Get a snapshot of a life at Picnic, take a read of the [short stories](https://join.picnic.app/stories) from our colleagues.
-
 ## More:
 
 - [Tech Stack](Tech_Stack.md)

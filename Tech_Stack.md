@@ -17,6 +17,7 @@ We strongly believe in open sourcing our tech. But don’t take our word for it.
 Then you can review our full [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/picnic-technologies) or read our [Engineering Blog](https://blog.picnic.nl/).
 
 <a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/f476a013007629b7f7c1f5aa216315"/>
+
 </a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 
 ## More:

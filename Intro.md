@@ -1,4 +1,4 @@
-# What is Picnic?
+# What is Picnic? 
 
 Picnic is rethinking the way people buy food. Without physical stores, we use an app-only approach and a user-centric philosophy, to make grocery shopping quick, simple, and fun.
 

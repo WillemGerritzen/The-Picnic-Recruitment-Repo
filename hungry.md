@@ -24,3 +24,12 @@ The amazing things that happen in ou offices, supply chain, and anywhere else th
 - [Facebook](https://www.facebook.com/picnicNL)
 - [YouTube](https://www.youtube.com/channel/UCzFh_J6z9gEeQRVY7S9epGQ)
 - [LinkedIn](https://www.linkedin.com/company/picnictechnologies/)
+
+## More
+
+- [Picnic - An Introduction](Intro.md)
+- [Tech Stack](Tech_Stack.md)
+- [Picnic's Hiring Experience](Hiring_Process.md)
+- [Onboarding](onboarding.md)
+- [What you'll love about working @ Picnic](What_love_Picnic.md)
+- [Getting here](map.md)

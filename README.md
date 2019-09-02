@@ -13,9 +13,9 @@ From an explanation of what Picnic is and does, to the hiring process you will g
 - [What you'll love about working @ Picnic](What_love_Picnic.md)
 - [Getting here](map.md)
 
-Of course, if you have any questions, concerns or suggestions, please don't hesitate to get in touch: willem.gerritzen@teampicnic.com
+Of course, if you have any questions, concerns or suggestions, please don't hesitate to get in touch: willem.gerritzen@teampicnic.com.
 
-Willem (Tech Recruiter @ Picnic)
+- Willem (Tech Recruiter @ Picnic)
 
 [![Picnic Logo](Images/Picnic_logo.png)](https://join.picnic.app)
 

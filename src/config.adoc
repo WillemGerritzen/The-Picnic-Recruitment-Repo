@@ -7,38 +7,3 @@
 
 // where are images located?
 :imagesdir: ./images
-
-//Begin numbering
-:numbered:
-
-<<<<
-// 1. Introduction
-include::src/start.adoc[]
-
-<<<<
-// 2. What is Picnic?
-include::src/Intro.adoc[]
-
-<<<<
-// 3. What you'll love about working @ Picnic
-include::src/What_love_Picnic.adoc[]
-
-<<<<
-// 4. Curious about our tech stack?
-include::src/Tech_Stack.adoc[]
-
-<<<<
-// 5. Picnic's Hiring Experience
-include::src/Hiring_Process.adoc[]
-
-<<<<
-// 6. Getting here
-include::src/map.adoc[]
-
-<<<<
-// 7. Onboarding
-include::src/onboarding.adoc[]
-
-<<<<
-// 8. Still hungry?
-include::src/hungry.adoc[]

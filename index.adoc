@@ -1,9 +1,5 @@
 // header file for arc42-template,
 // including all help texts
-//
-// ====================================
-
-= image:arc42-logo.png[arc42] Template
 // toc-title definition MUST follow document title without blank line!
 :toc-title: Table of Contents
 
@@ -24,9 +20,6 @@ endif::basebackend-html[]
 
 // configure EN settings for asciidoc
 include::src/config.adoc[]
-
-
-include::src/about-arc42.adoc[]
 
 // horizontal line
 ***
@@ -77,3 +70,5 @@ include::src/onboarding.adoc[]
 // 8. Still hungry?
 include::src/hungry.adoc[]
 
+// About arc42
+include::src/about-arc42.adoc[]

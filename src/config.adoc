@@ -37,7 +37,7 @@ include::src/map.adoc[]
 
 <<<<
 // 7. Onboarding
-incldue::src/onboarding.adoc[]
+include::src/onboarding.adoc[]
 
 <<<<
 // 8. Still hungry?

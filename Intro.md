@@ -6,7 +6,7 @@ Starting in one Dutch town in 2015, we now serve over 60 cities in both the Neth
 
 The team has expanded from 10 to over 200 in 3 years. Growth has been exponential and we’re not the only ones to say so. With multiple awards to our name and a Series B funding round of 100 million, we have become true disruptors in some of the most challenging industries: inner-city logistics, e-commerce retail and enterprise software. And thanks to our people-first attitude and a friendly delivery team, we become part of every neighbourhood we serve.
 
-![EPV Amersfoort](Images/epv_amersfoort.jpg)
+![EPV Amersfoort](images/epv_amersfoort.jpg)
 
 ### Rethinking how people buy food
 
@@ -16,7 +16,7 @@ Software is helping us lead a grocery revolution. But we don’t just sell apple
 
 With a data-driven approach and an app-only store, Picnic has become Europe’s fastest growing online supermarket.
 
-![EPV Canal](Images/epv_canal.jpg)
+![EPV Canal](images/epv_canal.jpg)
 
 ### Disruptive Greengrocer. Humble Milkman
 
@@ -24,7 +24,7 @@ We value freedom and responsibility. There’s always room to design unique solu
 
 Picnic started small, and our roots have never been forgotten. Real customers are involved day-to-day in the development of our product. We have a weekly user-testing session and a dedicated customer success team. This allows us to continue creating products that people love, complemented with first-class service and a modern flair.
 
-![EPV Windmill](Images/epv_windmill.jpg)
+![EPV Windmill](images/epv_windmill.jpg)
 
 ### Life @ Picnic
 

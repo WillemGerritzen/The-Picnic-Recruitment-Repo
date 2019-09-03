@@ -2,7 +2,7 @@
 
 The Picnic Hiring Experience is designed to be efficient yet thorough, so that everyone involved is 100% sure of the decisions they're taking. For you, the candidate, this means an extensive look into how we work and what we work with while remaining quick so that no one wastes any time. For us, Picnic, it means an in-depth understanding of who you are, and how you fit might into our team, so that once you're here, you'll be at your happiest and most productive. If you're curious to know how we make all this work, read on!
 
-![Process_1](Images/GHHP1.png)
+![Process_1](images/GHHP1.png)
 
 ### Application
 
@@ -16,7 +16,7 @@ The Picnic Hiring Experience is designed to be efficient yet thorough, so that e
 
   Once you've clicked "Send", your application ends up in our Applicant Tracking System (recruiters like to sound smart and usually call it an ATS). We always aim to get back to you within 24 hours, but sometimes it can take up to 48 hours until you hear back from us.
 
-![Process_2](Images/GHHP2.png)
+![Process_2](images/GHHP2.png)
 
 ### First Test and Phone Screening
 
@@ -42,7 +42,7 @@ The Picnic Hiring Experience is designed to be efficient yet thorough, so that e
 
   - Phone call: Before any phone call, your Tech Recruiter will do a quick check of your profile to note if there are any strange things that they should mention (gaps in your timeline, short periods of work, unfinished studies). If there is anything like that in your CV, make sure you're able to give us a quick explanation.
 
-![Process_3](Images/GHHP3.png)
+![Process_3](images/GHHP3.png)
 
 ### Main assignment
 
@@ -60,7 +60,7 @@ The Picnic Hiring Experience is designed to be efficient yet thorough, so that e
 
     Once you've submitted your assignment, two members of the tech team will take a look independently, and then join and discuss. They will then share their feedback with your recruiter, and together, they will decide whether to invite you to the last stage of the process: an on-site visit.
 
-![Process_4](Images/GHHP4.png)
+![Process_4](imagesmages/GHHP4.png)
 
 ### On-site visit
 
@@ -74,7 +74,7 @@ The Picnic Hiring Experience is designed to be efficient yet thorough, so that e
 
   When you arrive at the office, your recruiter will be there to welcome you. After a drink and a quick tour of the office, you'll be shown to your first meeting. Halfway into the day, you'll share lunch with some team members (on us ;) ) and when everything is said in done, you'll sit with your recruiter to share some feedback. During the day, your recruiter will be meeting with the different people you met with to get a sense of how the day is going, and before the final meeting with your recruiter, everyone involved in your process will meet to discuss your case and take a final decision.
 
-![Process_5](Images/GHHP5.png)
+![Process_5](images/GHHP5.png)
 
 ### Hired!
 

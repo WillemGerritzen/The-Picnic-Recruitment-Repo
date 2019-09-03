@@ -6,7 +6,7 @@ Starting a new job can be exciting and a little scary. You meet a lot of new peo
 
 Moving to a new country can always be a little daunting. Fortunately, we're here to help! Have a look at the diagram below, which gives you an overview of the different steps you, Picnic, and the Dutch government will be involved in for your smooth transition: 
 
-![Checklist](Images/checklist.png)
+![Checklist](images/checklist.png)
 
 ### Getting to know Picnic
 

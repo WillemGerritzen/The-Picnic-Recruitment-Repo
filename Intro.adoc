@@ -66,9 +66,9 @@ simplicity out of complexity and run company changing projects.
 
 === More:
 
-* link:Tech_Stack.md[Tech Stack]
-* link:Hiring_Process.md[Picnic's Hiring Experience]
-* link:onboarding.md[Onboarding]
-* link:What_love_Picnic.md[What you'll love about working @ Picnic]
-* link:map.md[Getting here]
-* link:hungry.md[Still hungry?]
+* link:Tech_Stack.adoc[Tech Stack]
+* link:Hiring_Process.adoc[Picnic's Hiring Experience]
+* link:onboarding.adoc[Onboarding]
+* link:What_love_Picnic.adoc[What you'll love about working @ Picnic]
+* link:map.adoc[Getting here]
+* link:hungry.adoc[Still hungry?]
